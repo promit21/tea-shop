@@ -1,14 +1,4 @@
-<script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          colors: {
-            clifford: '#da373d',
-          }
-        }
-      }
-    }
-  </script>
-  *{
+
+.font-manrope{
     font-family: 'Manrope', sans-serif;
   }
